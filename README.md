@@ -1,2 +1,26 @@
-# Hackintosh-EFI-MSI_B460M_MORTAR_WIFI
-微星B460M迫击炮wifi黑苹果EFI分享
+如果我的项目有帮助到你还请给个小星星呀~
+
+## 硬件配置单
+
+
+|配件|型号|备注|
+--- | ---|---
+|主板|微星B460M迫击炮WiFi||
+|CPU|10700|
+|内存|金百达银爵 3200Mhz 8G*2||
+|硬盘|致钛PC005 512G|
+|显卡|AMD免驱显卡||
+|网卡|Bcm94360Z4|该网卡非常规尺寸，共有4根天线；网卡屏蔽盒子需要切割|
+|机箱|机械大师C28|前置1个USBA口，1个USBC口|
+
+## 系统版本
+|类型|版本|
+--- | ---
+|OpenCore|0.7.8| 
+|macOS| Monterey 12.6.1|
+
+## 其他
+|事项|说明|
+--- | ---
+|三码|请自行更换三码！！！| 
+|USB定制|![微星B460M迫击炮+C28（1A1C）](https://github.com/ZhuyuNtzh/Hackintosh-EFI-MSI_B460M_MORTAR_WIFI/assets/115443114/ada70300-1cb6-4e49-a87b-637e42380fa1)|
